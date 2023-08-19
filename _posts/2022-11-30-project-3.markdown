@@ -1,0 +1,15 @@
+---
+title: Net Prime +
+subtitle: PHP BOOTSTRAP HTML
+layout: default
+modal-id: 3
+date: 2022-11-30
+img: netprime-detail.png
+thumbnail: netprime.png
+alt: net-prime-alt
+project-date: 2022
+client: Oclock
+category: Web Development
+description: Projet réalisé dans le cadre de la formation DWWM et sur l'apprentissage du MVC avec pattern Active record. Base de données MariaDB
+
+---

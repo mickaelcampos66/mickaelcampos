@@ -1,0 +1,16 @@
+---
+title: Pokedex
+subtitle: PHP BOOTSTRAP HTML 
+layout: default
+modal-id: 1
+date: 2023-08-12
+img: pokedex-detail.png
+thumbnail: pokedex.png
+alt: Pokedex-alt
+project-date: Aout 2023
+client: Oclock
+category: Web Development
+github: https://github.com/mickaelcampos66/Pokedex
+description: Projet réalisé avec un modèle de conception MVC en PHP, avec une intégration HTML/Bootstrap et utilisation de MariaDB comme base de données.
+
+---

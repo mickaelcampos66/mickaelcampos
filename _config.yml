@@ -1,0 +1,26 @@
+url: https://mickaelcampos66.github.io
+baseurl: /portfolio
+
+# Site settings
+title: Campos Mickael
+email: campos.mickael66@gmail.com
+description: "Bienvenue sur mon espace et bonne visite"
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://instagram.com/mika_dev66
+  - title: linkedin
+    url: https://www.linkedin.com/in/mcampos66/
+  - title: github
+    url: https://github.com/mickaelcampos66
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: South of France
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
