@@ -7,7 +7,7 @@ date: 2023-09-04
 img: todo-detail.png
 thumbnail: todolist.png
 alt: todolist-alt
-project-date: 2022
+project-date: 2023
 client: Oclock
 category: Web Development
 github: https://github.com/mickaelcampos66/TODOLIST
