@@ -4,8 +4,8 @@ subtitle: HTML CSS JS LARAVEL
 layout: default
 modal-id: 4
 date: 2023-09-04
-img: todo-detail.png
-thumbnail: todolist.png
+img: todolist.png
+thumbnail: todo-detail.png
 alt: todolist-alt
 project-date: 2023
 client: Oclock
