@@ -1,0 +1,16 @@
+---
+title: TODO LIST
+subtitle: HTML CSS JS LARAVEL
+layout: default
+modal-id: 4
+date: 2023-09-04
+img: todo-detail.png
+thumbnail: todolist.png
+alt: todolist-alt
+project-date: 2022
+client: Oclock
+category: Web Development
+github: 
+description: Réalisation d'une TODOLIST en ayant utilisé le framework Laravel pour créer une API en relation avec une BDD, et programmation d'une Single Page Application (SPA) avec Javascript pour consommation de l'API.
+
+---
